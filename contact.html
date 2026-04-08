@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact -- Tias Capital</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="/" class="navbar__logo"><span>Tias</span> Capital</a>
+      <ul class="navbar__links" id="nav-links">
+        <li><a href="/">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+      <button class="navbar__toggle" id="nav-toggle" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <section class="hero hero--contact hero--image">
+    <div class="container">
+      <h1>Contact</h1>
+      <p>We welcome inquiries from potential partners, investors, community stakeholders, and members of the press.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="contact-grid">
+
+        <div class="contact-info">
+          <h3>Office</h3>
+          <address>
+            Tias Capital<br>
+            1700 Lincoln Street, Suite 3200<br>
+            Denver, CO 80203
+          </address>
+
+          <h3>General Inquiries</h3>
+          <p><a href="mailto:info@tiascapital.com">info@tiascapital.com</a></p>
+
+          <h3>Partnership and Investment Inquiries</h3>
+          <p>For partnership proposals, co-investment opportunities, and institutional inquiries, please contact us at the email above with "Partnership Inquiry" or "Investment Inquiry" in the subject line. A member of our team will respond within two business days.</p>
+
+          <h3>Press</h3>
+          <p>Members of the media may direct inquiries to <a href="mailto:info@tiascapital.com">info@tiascapital.com</a> with "Press" in the subject line.</p>
+        </div>
+
+        <div class="contact-form">
+          <form onsubmit="event.preventDefault(); alert('This is a demonstration site. Form submissions are not processed.');">
+            <div class="form-group">
+              <label for="name">Name</label>
+              <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+              <label for="subject">Subject</label>
+              <input type="text" id="subject" name="subject" required>
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" rows="6" required></textarea>
+            </div>
+            <button type="submit">Submit</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <span>&copy; 2026 Tias Capital</span>
+      <ul class="footer__links">
+        <li><a href="about.html">About</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
