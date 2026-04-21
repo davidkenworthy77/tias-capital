@@ -9,25 +9,25 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/about.html</loc>
+    <loc>https://www.tiascapital.com/about</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/portfolio.html</loc>
+    <loc>https://www.tiascapital.com/portfolio</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news.html</loc>
+    <loc>https://www.tiascapital.com/news</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/contact.html</loc>
+    <loc>https://www.tiascapital.com/contact</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -35,31 +35,31 @@
 
   <!-- Portfolio detail pages -->
   <url>
-    <loc>https://www.tiascapital.com/portfolio/bahia-sola.html</loc>
+    <loc>https://www.tiascapital.com/portfolio/bahia-sola</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/portfolio/canopy-falls.html</loc>
+    <loc>https://www.tiascapital.com/portfolio/canopy-falls</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/portfolio/dune-drift.html</loc>
+    <loc>https://www.tiascapital.com/portfolio/dune-drift</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/portfolio/solimar.html</loc>
+    <loc>https://www.tiascapital.com/portfolio/solimar</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/portfolio/mirage-mountain.html</loc>
+    <loc>https://www.tiascapital.com/portfolio/mirage-mountain</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -67,37 +67,37 @@
 
   <!-- News / press release detail pages -->
   <url>
-    <loc>https://www.tiascapital.com/news/solimar-beach-club-announcement.html</loc>
+    <loc>https://www.tiascapital.com/news/solimar-beach-club-announcement</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news/mirage-mountain-investment.html</loc>
+    <loc>https://www.tiascapital.com/news/mirage-mountain-investment</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news/dune-drift-launch.html</loc>
+    <loc>https://www.tiascapital.com/news/dune-drift-launch</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news/canopy-falls-acquisition.html</loc>
+    <loc>https://www.tiascapital.com/news/canopy-falls-acquisition</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news/bahia-sola-opening.html</loc>
+    <loc>https://www.tiascapital.com/news/bahia-sola-opening</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.tiascapital.com/news/fund-i-close.html</loc>
+    <loc>https://www.tiascapital.com/news/fund-i-close</loc>
     <lastmod>2026-04-21</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
